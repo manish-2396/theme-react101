@@ -1,0 +1,30 @@
+[
+    {
+        "imgurl": "https://tse3.mm.bing.net/th?id=OIP.scExuNqSeL_zvoAQbH0gWAHaHa&pid=Api&P=0&w=179&h=179",
+        "name": "Manish Singh Chouhan",
+        "city": "Nagpur",
+        "level": 10,
+        "points": 43.44
+    },
+    {
+        "imgurl": "https://tse3.mm.bing.net/th?id=OIP.scExuNqSeL_zvoAQbH0gWAHaHa&pid=Api&P=0&w=179&h=179",
+        "name": "Lakhan Yadav",
+        "city": "Patna",
+        "level": 11,
+        "points": 43.84
+    },
+    {
+        "imgurl": "https://tse3.mm.bing.net/th?id=OIP.scExuNqSeL_zvoAQbH0gWAHaHa&pid=Api&P=0&w=179&h=179",
+        "name": "Madhuri Patel",
+        "city": "Pune",
+        "level": 10,
+        "points": 43.423
+    },
+    {
+        "imgurl": "https://tse3.mm.bing.net/th?id=OIP.scExuNqSeL_zvoAQbH0gWAHaHa&pid=Api&P=0&w=179&h=179",
+        "name": "Ratna Das",
+        "city": "Kadhmandu",
+        "level": 10,
+        "points": 43.423
+    }
+]
